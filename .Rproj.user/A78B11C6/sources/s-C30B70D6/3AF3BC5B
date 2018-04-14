@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523642342808.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3AF3BC5B",
+    "lastKnownWriteTime" : 1523646074,
+    "last_content_update" : 1523646074456,
+    "path" : "~/alex-website/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "75,110",
+        "scrollLine" : "71"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
