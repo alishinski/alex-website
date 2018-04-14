@@ -3,7 +3,7 @@ title = "Methodological Rigor and Theoretical Foundations of CS Education Resear
 date = "2016-09-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Alex Lishinski", "Jon Good", "Phil Sands", Aman Yadav]
+authors = ["Alex Lishinski", "Jon Good", "Phil Sands", "Aman Yadav"]
 
 # Publication type.
 # Legend:
